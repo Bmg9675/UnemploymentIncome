@@ -1,7 +1,10 @@
 
 
-plotly
+requests
 
+pandas
+
+plotly
 
 python-dotenv
 
